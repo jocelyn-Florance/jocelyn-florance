@@ -27,7 +27,6 @@ Je m'appelle Jocelyn je suis spécialisé dans le développement full-stack (f
 
 ### Connectez vous a moi:
 
-[<img align="left" alt="JocelynFl | Malt" width="22px" src="https://lh3.googleusercontent.com/q5SsBlDIb3lq4x9lJ3tHbLrq4Xs5yMZ3F8EnBkIb4-EGEtljPNLaxDUq6nYBrtjeb3aRPXU4iIMrhm0tbVA" />][malt]
 [<img align="left" alt="JocelynFl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JocelynFl | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
