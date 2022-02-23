@@ -59,6 +59,5 @@ Je m'appelle Jocelyn je suis spécialisé dans le développement full-stack (f
 #### N'hésitez pas à me contacter afin que nous discutions de votre projet :)
 
 [website]: https://jocelyn-florance.dev/
-[malt]: https://www.malt.fr/profile/jocelynflorance
 [linkedin]: https://www.linkedin.com/in/jocelyn-florance/
 [github]: https://github.com/jocelyn-Florance
